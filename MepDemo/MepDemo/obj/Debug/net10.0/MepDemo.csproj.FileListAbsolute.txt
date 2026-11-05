@@ -1,0 +1,14 @@
+C:\Code_demo\HelloPtudpt\Bai1\MepDemo\MepDemo\bin\Debug\net10.0\MepDemo.exe
+C:\Code_demo\HelloPtudpt\Bai1\MepDemo\MepDemo\bin\Debug\net10.0\MepDemo.deps.json
+C:\Code_demo\HelloPtudpt\Bai1\MepDemo\MepDemo\bin\Debug\net10.0\MepDemo.runtimeconfig.json
+C:\Code_demo\HelloPtudpt\Bai1\MepDemo\MepDemo\bin\Debug\net10.0\MepDemo.dll
+C:\Code_demo\HelloPtudpt\Bai1\MepDemo\MepDemo\bin\Debug\net10.0\MepDemo.pdb
+C:\Code_demo\HelloPtudpt\Bai1\MepDemo\MepDemo\obj\Debug\net10.0\MepDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code_demo\HelloPtudpt\Bai1\MepDemo\MepDemo\obj\Debug\net10.0\MepDemo.AssemblyInfoInputs.cache
+C:\Code_demo\HelloPtudpt\Bai1\MepDemo\MepDemo\obj\Debug\net10.0\MepDemo.AssemblyInfo.cs
+C:\Code_demo\HelloPtudpt\Bai1\MepDemo\MepDemo\obj\Debug\net10.0\MepDemo.csproj.CoreCompileInputs.cache
+C:\Code_demo\HelloPtudpt\Bai1\MepDemo\MepDemo\obj\Debug\net10.0\MepDemo.dll
+C:\Code_demo\HelloPtudpt\Bai1\MepDemo\MepDemo\obj\Debug\net10.0\refint\MepDemo.dll
+C:\Code_demo\HelloPtudpt\Bai1\MepDemo\MepDemo\obj\Debug\net10.0\MepDemo.pdb
+C:\Code_demo\HelloPtudpt\Bai1\MepDemo\MepDemo\obj\Debug\net10.0\MepDemo.genruntimeconfig.cache
+C:\Code_demo\HelloPtudpt\Bai1\MepDemo\MepDemo\obj\Debug\net10.0\ref\MepDemo.dll
